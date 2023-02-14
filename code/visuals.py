@@ -26,7 +26,7 @@ HZ_lower = 0.7961401947919267 * (AU/E_r)
 nasa = pd.read_csv('nasa_exoplanet_dataset.csv', delimiter=',', header=19)
 
 
-class visuals():
+class plots():
     
     'This is a class, where all the relevent visualisations can be performed'
     
